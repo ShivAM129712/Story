@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello it is shivam
+=======
+i am now in a allien plot
+>>>>>>> allien-plot
